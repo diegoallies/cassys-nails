@@ -121,7 +121,7 @@ header{
     color: #fff;
 }
 .bigheadline {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Raleway', sans-serif !important;
 	font-weight: 100;
 	font-size: 10em;
 	margin: 0;
