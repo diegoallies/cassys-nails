@@ -643,7 +643,7 @@ footer {
 
 	header{
 		background: url(../images/bg-small.jpg) no-repeat;
-		/* background-size: contain; */
+		background-size: contain;
 		background-attachment: fixed;
 		background-position: 50% -50px;
 	}
